@@ -1,1 +1,6 @@
 LibriSpeech
+
+data_clean.txt
+mfccs.txt
+
+.ipynb_checkpoints
